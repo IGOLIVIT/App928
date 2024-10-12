@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="22758" systemVersion="23B74" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithSwiftData="YES" userDefinedModelVersionIdentifier="">
+    <entity name="AppModel" representedClassName="AppModel" syncable="YES" codeGenerationType="class">
+        <attribute name="apDate1" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="apDate2" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="apDName" optional="YES" attributeType="String"/>
+        <attribute name="apDSpec" optional="YES" attributeType="String"/>
+        <attribute name="apPhoto" optional="YES" attributeType="String"/>
+        <attribute name="apPName1" optional="YES" attributeType="String"/>
+        <attribute name="apPName2" optional="YES" attributeType="String"/>
+        <attribute name="apPrice1" optional="YES" attributeType="String"/>
+        <attribute name="apPrice2" optional="YES" attributeType="String"/>
+        <attribute name="apServ1" optional="YES" attributeType="String"/>
+        <attribute name="apServ2" optional="YES" attributeType="String"/>
+        <attribute name="apTime1" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="apTime2" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+    </entity>
+    <entity name="DocModel" representedClassName="DocModel" syncable="YES" codeGenerationType="class">
+        <attribute name="docFunc" optional="YES" attributeType="String"/>
+        <attribute name="docName" optional="YES" attributeType="String"/>
+        <attribute name="docServices" optional="YES" attributeType="String"/>
+        <attribute name="docSum" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="ServModel" representedClassName="ServModel" syncable="YES" codeGenerationType="class">
+        <attribute name="servLen" optional="YES" attributeType="String"/>
+        <attribute name="servName" optional="YES" attributeType="String"/>
+        <attribute name="servPhoto" optional="YES" attributeType="String"/>
+        <attribute name="servPrice1" optional="YES" attributeType="String"/>
+        <attribute name="servPrice2" optional="YES" attributeType="String"/>
+        <attribute name="servServ1" optional="YES" attributeType="String"/>
+        <attribute name="servServ2" optional="YES" attributeType="String"/>
+        <attribute name="servSpec" optional="YES" attributeType="String"/>
+    </entity>
+</model>

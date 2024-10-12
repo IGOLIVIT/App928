@@ -11,6 +11,29 @@
 		78BAACF82CB955D50017319E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78BAACF72CB955D50017319E /* ContentView.swift */; };
 		78BAACFA2CB955D60017319E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 78BAACF92CB955D60017319E /* Assets.xcassets */; };
 		78BAACFE2CB955D60017319E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 78BAACFD2CB955D60017319E /* Preview Assets.xcassets */; };
+		78BAAD092CB956DD0017319E /* R1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78BAAD082CB956DD0017319E /* R1.swift */; };
+		78BAAD0B2CB956E40017319E /* R2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78BAAD0A2CB956E40017319E /* R2.swift */; };
+		78BAAD0D2CB956E90017319E /* R3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78BAAD0C2CB956E90017319E /* R3.swift */; };
+		78BAAD0F2CB956ED0017319E /* U1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78BAAD0E2CB956ED0017319E /* U1.swift */; };
+		78BAAD112CB956F30017319E /* Reviews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78BAAD102CB956F30017319E /* Reviews.swift */; };
+		78BAAD132CB956F80017319E /* Not.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78BAAD122CB956F80017319E /* Not.swift */; };
+		78BAAD172CB961F60017319E /* LoadingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78BAAD162CB961F60017319E /* LoadingView.swift */; };
+		78BAAD192CB96E700017319E /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 78BAAD182CB96E700017319E /* Launch Screen.storyboard */; };
+		78BAAD212CB970210017319E /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78BAAD202CB970210017319E /* HomeView.swift */; };
+		78BAAD232CB9702E0017319E /* ServicesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78BAAD222CB9702E0017319E /* ServicesView.swift */; };
+		78BAAD252CB970390017319E /* AppointmentsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78BAAD242CB970390017319E /* AppointmentsView.swift */; };
+		78BAAD272CB970430017319E /* CoreDataStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78BAAD262CB970430017319E /* CoreDataStack.swift */; };
+		78BAAD292CB970490017319E /* Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78BAAD282CB970490017319E /* Array.swift */; };
+		78BAAD2B2CB970550017319E /* DateConvert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78BAAD2A2CB970550017319E /* DateConvert.swift */; };
+		78BAAD2D2CB97A1B0017319E /* HomeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78BAAD2C2CB97A1B0017319E /* HomeViewModel.swift */; };
+		78BAAD302CB97B000017319E /* TopDoctors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78BAAD2F2CB97B000017319E /* TopDoctors.swift */; };
+		78BAAD332CB97B0E0017319E /* OtherDoc.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78BAAD322CB97B0E0017319E /* OtherDoc.swift */; };
+		78BAAD362CB97CAB0017319E /* CoreModel.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 78BAAD342CB97CAB0017319E /* CoreModel.xcdatamodeld */; };
+		78BAAD442CBA798F0017319E /* ServicesViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78BAAD432CBA798F0017319E /* ServicesViewModel.swift */; };
+		78BAAD472CBA799D0017319E /* AddServ.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78BAAD462CBA799D0017319E /* AddServ.swift */; };
+		78BAAD4C2CBA843F0017319E /* AppointmentsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78BAAD4B2CBA843F0017319E /* AppointmentsViewModel.swift */; };
+		78BAAD4F2CBA85B80017319E /* AddApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78BAAD4E2CBA85B80017319E /* AddApp.swift */; };
+		78BAAD512CBAA3AE0017319E /* TabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78BAAD502CBAA3AE0017319E /* TabBar.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +43,29 @@
 		78BAACF92CB955D60017319E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		78BAACFB2CB955D60017319E /* App928.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = App928.entitlements; sourceTree = "<group>"; };
 		78BAACFD2CB955D60017319E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		78BAAD082CB956DD0017319E /* R1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = R1.swift; sourceTree = "<group>"; };
+		78BAAD0A2CB956E40017319E /* R2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = R2.swift; sourceTree = "<group>"; };
+		78BAAD0C2CB956E90017319E /* R3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = R3.swift; sourceTree = "<group>"; };
+		78BAAD0E2CB956ED0017319E /* U1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = U1.swift; sourceTree = "<group>"; };
+		78BAAD102CB956F30017319E /* Reviews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Reviews.swift; sourceTree = "<group>"; };
+		78BAAD122CB956F80017319E /* Not.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Not.swift; sourceTree = "<group>"; };
+		78BAAD162CB961F60017319E /* LoadingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadingView.swift; sourceTree = "<group>"; };
+		78BAAD182CB96E700017319E /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
+		78BAAD202CB970210017319E /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		78BAAD222CB9702E0017319E /* ServicesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServicesView.swift; sourceTree = "<group>"; };
+		78BAAD242CB970390017319E /* AppointmentsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppointmentsView.swift; sourceTree = "<group>"; };
+		78BAAD262CB970430017319E /* CoreDataStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataStack.swift; sourceTree = "<group>"; };
+		78BAAD282CB970490017319E /* Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Array.swift; sourceTree = "<group>"; };
+		78BAAD2A2CB970550017319E /* DateConvert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateConvert.swift; sourceTree = "<group>"; };
+		78BAAD2C2CB97A1B0017319E /* HomeViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewModel.swift; sourceTree = "<group>"; };
+		78BAAD2F2CB97B000017319E /* TopDoctors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopDoctors.swift; sourceTree = "<group>"; };
+		78BAAD322CB97B0E0017319E /* OtherDoc.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OtherDoc.swift; sourceTree = "<group>"; };
+		78BAAD352CB97CAB0017319E /* CoreModel.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CoreModel.xcdatamodel; sourceTree = "<group>"; };
+		78BAAD432CBA798F0017319E /* ServicesViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServicesViewModel.swift; sourceTree = "<group>"; };
+		78BAAD462CBA799D0017319E /* AddServ.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddServ.swift; sourceTree = "<group>"; };
+		78BAAD4B2CBA843F0017319E /* AppointmentsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppointmentsViewModel.swift; sourceTree = "<group>"; };
+		78BAAD4E2CBA85B80017319E /* AddApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddApp.swift; sourceTree = "<group>"; };
+		78BAAD502CBAA3AE0017319E /* TabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBar.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +98,7 @@
 		78BAACF42CB955D50017319E /* App928 */ = {
 			isa = PBXGroup;
 			children = (
+				78BAAD042CB956C80017319E /* All */,
 				78BAACF52CB955D50017319E /* App928App.swift */,
 				78BAACF72CB955D50017319E /* ContentView.swift */,
 				78BAACF92CB955D60017319E /* Assets.xcassets */,
@@ -67,6 +114,156 @@
 				78BAACFD2CB955D60017319E /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		78BAAD042CB956C80017319E /* All */ = {
+			isa = PBXGroup;
+			children = (
+				78BAAD1C2CB96EB00017319E /* View */,
+				78BAAD1B2CB96EA90017319E /* Extensions */,
+				78BAAD1A2CB96EA50017319E /* TabBar */,
+				78BAAD052CB956CC0017319E /* Start */,
+			);
+			path = All;
+			sourceTree = "<group>";
+		};
+		78BAAD052CB956CC0017319E /* Start */ = {
+			isa = PBXGroup;
+			children = (
+				78BAAD152CB961850017319E /* Loading */,
+				78BAAD142CB9617F0017319E /* Launch */,
+				78BAAD072CB956D40017319E /* U */,
+				78BAAD062CB956D10017319E /* R */,
+			);
+			path = Start;
+			sourceTree = "<group>";
+		};
+		78BAAD062CB956D10017319E /* R */ = {
+			isa = PBXGroup;
+			children = (
+				78BAAD082CB956DD0017319E /* R1.swift */,
+				78BAAD0A2CB956E40017319E /* R2.swift */,
+				78BAAD0C2CB956E90017319E /* R3.swift */,
+			);
+			path = R;
+			sourceTree = "<group>";
+		};
+		78BAAD072CB956D40017319E /* U */ = {
+			isa = PBXGroup;
+			children = (
+				78BAAD0E2CB956ED0017319E /* U1.swift */,
+				78BAAD102CB956F30017319E /* Reviews.swift */,
+				78BAAD122CB956F80017319E /* Not.swift */,
+			);
+			path = U;
+			sourceTree = "<group>";
+		};
+		78BAAD142CB9617F0017319E /* Launch */ = {
+			isa = PBXGroup;
+			children = (
+				78BAAD182CB96E700017319E /* Launch Screen.storyboard */,
+			);
+			path = Launch;
+			sourceTree = "<group>";
+		};
+		78BAAD152CB961850017319E /* Loading */ = {
+			isa = PBXGroup;
+			children = (
+				78BAAD162CB961F60017319E /* LoadingView.swift */,
+			);
+			path = Loading;
+			sourceTree = "<group>";
+		};
+		78BAAD1A2CB96EA50017319E /* TabBar */ = {
+			isa = PBXGroup;
+			children = (
+				78BAAD502CBAA3AE0017319E /* TabBar.swift */,
+			);
+			path = TabBar;
+			sourceTree = "<group>";
+		};
+		78BAAD1B2CB96EA90017319E /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				78BAAD262CB970430017319E /* CoreDataStack.swift */,
+				78BAAD282CB970490017319E /* Array.swift */,
+				78BAAD2A2CB970550017319E /* DateConvert.swift */,
+				78BAAD342CB97CAB0017319E /* CoreModel.xcdatamodeld */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		78BAAD1C2CB96EB00017319E /* View */ = {
+			isa = PBXGroup;
+			children = (
+				78BAAD1F2CB970160017319E /* Home */,
+				78BAAD1E2CB970100017319E /* Services */,
+				78BAAD1D2CB970080017319E /* Appointments */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		78BAAD1D2CB970080017319E /* Appointments */ = {
+			isa = PBXGroup;
+			children = (
+				78BAAD4D2CBA85B00017319E /* AddApp */,
+				78BAAD242CB970390017319E /* AppointmentsView.swift */,
+				78BAAD4B2CBA843F0017319E /* AppointmentsViewModel.swift */,
+			);
+			path = Appointments;
+			sourceTree = "<group>";
+		};
+		78BAAD1E2CB970100017319E /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				78BAAD452CBA79950017319E /* AddServ */,
+				78BAAD222CB9702E0017319E /* ServicesView.swift */,
+				78BAAD432CBA798F0017319E /* ServicesViewModel.swift */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		78BAAD1F2CB970160017319E /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				78BAAD312CB97B030017319E /* OtherDoc */,
+				78BAAD2E2CB97AF60017319E /* TopDoctors */,
+				78BAAD202CB970210017319E /* HomeView.swift */,
+				78BAAD2C2CB97A1B0017319E /* HomeViewModel.swift */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		78BAAD2E2CB97AF60017319E /* TopDoctors */ = {
+			isa = PBXGroup;
+			children = (
+				78BAAD2F2CB97B000017319E /* TopDoctors.swift */,
+			);
+			path = TopDoctors;
+			sourceTree = "<group>";
+		};
+		78BAAD312CB97B030017319E /* OtherDoc */ = {
+			isa = PBXGroup;
+			children = (
+				78BAAD322CB97B0E0017319E /* OtherDoc.swift */,
+			);
+			path = OtherDoc;
+			sourceTree = "<group>";
+		};
+		78BAAD452CBA79950017319E /* AddServ */ = {
+			isa = PBXGroup;
+			children = (
+				78BAAD462CBA799D0017319E /* AddServ.swift */,
+			);
+			path = AddServ;
+			sourceTree = "<group>";
+		};
+		78BAAD4D2CBA85B00017319E /* AddApp */ = {
+			isa = PBXGroup;
+			children = (
+				78BAAD4E2CBA85B80017319E /* AddApp.swift */,
+			);
+			path = AddApp;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -127,6 +324,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				78BAAD192CB96E700017319E /* Launch Screen.storyboard in Resources */,
 				78BAACFE2CB955D60017319E /* Preview Assets.xcassets in Resources */,
 				78BAACFA2CB955D60017319E /* Assets.xcassets in Resources */,
 			);
@@ -141,6 +339,28 @@
 			files = (
 				78BAACF82CB955D50017319E /* ContentView.swift in Sources */,
 				78BAACF62CB955D50017319E /* App928App.swift in Sources */,
+				78BAAD252CB970390017319E /* AppointmentsView.swift in Sources */,
+				78BAAD512CBAA3AE0017319E /* TabBar.swift in Sources */,
+				78BAAD332CB97B0E0017319E /* OtherDoc.swift in Sources */,
+				78BAAD2D2CB97A1B0017319E /* HomeViewModel.swift in Sources */,
+				78BAAD092CB956DD0017319E /* R1.swift in Sources */,
+				78BAAD212CB970210017319E /* HomeView.swift in Sources */,
+				78BAAD2B2CB970550017319E /* DateConvert.swift in Sources */,
+				78BAAD302CB97B000017319E /* TopDoctors.swift in Sources */,
+				78BAAD232CB9702E0017319E /* ServicesView.swift in Sources */,
+				78BAAD272CB970430017319E /* CoreDataStack.swift in Sources */,
+				78BAAD4F2CBA85B80017319E /* AddApp.swift in Sources */,
+				78BAAD0D2CB956E90017319E /* R3.swift in Sources */,
+				78BAAD0B2CB956E40017319E /* R2.swift in Sources */,
+				78BAAD292CB970490017319E /* Array.swift in Sources */,
+				78BAAD4C2CBA843F0017319E /* AppointmentsViewModel.swift in Sources */,
+				78BAAD442CBA798F0017319E /* ServicesViewModel.swift in Sources */,
+				78BAAD472CBA799D0017319E /* AddServ.swift in Sources */,
+				78BAAD132CB956F80017319E /* Not.swift in Sources */,
+				78BAAD0F2CB956ED0017319E /* U1.swift in Sources */,
+				78BAAD362CB97CAB0017319E /* CoreModel.xcdatamodeld in Sources */,
+				78BAAD112CB956F30017319E /* Reviews.swift in Sources */,
+				78BAAD172CB961F60017319E /* LoadingView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -267,33 +487,39 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = App928/App928.entitlements;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"App928/Preview Content\"";
+				DEVELOPMENT_TEAM = "";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "BetAssist Medical Health";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = "Launch Screen.storyboard";
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
-				MACOSX_DEPLOYMENT_TARGET = 14.1;
+				MACOSX_DEPLOYMENT_TARGET = 14.0;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = IOI.App928;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -303,33 +529,39 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = App928/App928.entitlements;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"App928/Preview Content\"";
+				DEVELOPMENT_TEAM = "";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "BetAssist Medical Health";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = "Launch Screen.storyboard";
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
-				MACOSX_DEPLOYMENT_TARGET = 14.1;
+				MACOSX_DEPLOYMENT_TARGET = 14.0;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = IOI.App928;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -355,6 +587,20 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		78BAAD342CB97CAB0017319E /* CoreModel.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				78BAAD352CB97CAB0017319E /* CoreModel.xcdatamodel */,
+			);
+			currentVersion = 78BAAD352CB97CAB0017319E /* CoreModel.xcdatamodel */;
+			name = CoreModel.xcdatamodeld;
+			path = /Users/igor/Documents/Applications/App928/App928/All/Extensions/CoreModel.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
 	};
 	rootObject = 78BAACEA2CB955D50017319E /* Project object */;
 }
