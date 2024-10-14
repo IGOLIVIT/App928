@@ -65,26 +65,6 @@ struct R3: View {
                 .background(Color("prim"))
             }
             .ignoresSafeArea()
-            
-            VStack {
-                
-                Button(action: {
-                    
-                    status = true
-                    
-                }, label: {
-                    
-                    Image(systemName: "xmark")
-                        .foregroundColor(.white)
-                        .font(.system(size: 15, weight: .semibold))
-                        .padding(5)
-                        .background(Circle().fill(.black))
-                })
-                .frame(maxWidth: .infinity, alignment: .trailing)
-                .padding(.horizontal)
-                
-                Spacer()
-            }
         }
     }
 }

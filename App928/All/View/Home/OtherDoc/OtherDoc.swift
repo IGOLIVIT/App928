@@ -35,7 +35,7 @@ struct OtherDoc: View {
                 })
                 .frame(maxWidth: .infinity, alignment: .trailing)
                 
-                Text("Add two top doctors")
+                Text("Add other doctors")
                     .foregroundColor(.black)
                     .font(.system(size: 20, weight: .semibold))
                     .frame(maxWidth: .infinity, alignment: .leading)
