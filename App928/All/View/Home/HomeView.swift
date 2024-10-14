@@ -337,7 +337,7 @@ struct HomeView: View {
                         
                         Button(action: {
                             
-                            guard let url = URL(string: "https://www.termsfeed.com/live/6e36cf18-14f6-4990-8846-630b8d06b075") else { return }
+                            guard let url = URL(string: "https://www.termsfeed.com/live/59928f94-c718-49f6-8866-919b948a8513") else { return }
                             
                             UIApplication.shared.open(url)
                             
