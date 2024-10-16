@@ -10,7 +10,7 @@ import CoreData
 
 final class AppointmentsViewModel: ObservableObject {
     
-    @Published var docPhotos: [String] = ["d1", "d2", "d3", "d4", "d5",]
+    @Published var docPhotos: [String] = ["1", "2", "3", "4", "5", "6", "7", "8"]
     @Published var currentPhoto: String = ""
 
     @Published var isAdd: Bool = false
