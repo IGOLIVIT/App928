@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7809B9AA2CCAC2B600D089BF /* Wan.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7809B9A92CCAC2B600D089BF /* Wan.swift */; };
+		7809B9AC2CCAC2C300D089BF /* Drawinc.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7809B9AB2CCAC2C300D089BF /* Drawinc.swift */; };
+		7809B9AE2CCAC2CB00D089BF /* Swenom.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7809B9AD2CCAC2CB00D089BF /* Swenom.swift */; };
 		78BAACF62CB955D50017319E /* App928App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78BAACF52CB955D50017319E /* App928App.swift */; };
 		78BAACF82CB955D50017319E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78BAACF72CB955D50017319E /* ContentView.swift */; };
 		78BAACFA2CB955D60017319E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 78BAACF92CB955D60017319E /* Assets.xcassets */; };
@@ -37,6 +40,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7809B9A92CCAC2B600D089BF /* Wan.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Wan.swift; sourceTree = "<group>"; };
+		7809B9AB2CCAC2C300D089BF /* Drawinc.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Drawinc.swift; sourceTree = "<group>"; };
+		7809B9AD2CCAC2CB00D089BF /* Swenom.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swenom.swift; sourceTree = "<group>"; };
 		78BAACF22CB955D50017319E /* App928.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = App928.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		78BAACF52CB955D50017319E /* App928App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = App928App.swift; sourceTree = "<group>"; };
 		78BAACF72CB955D50017319E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -189,6 +195,9 @@
 				78BAAD282CB970490017319E /* Array.swift */,
 				78BAAD2A2CB970550017319E /* DateConvert.swift */,
 				78BAAD342CB97CAB0017319E /* CoreModel.xcdatamodeld */,
+				7809B9A92CCAC2B600D089BF /* Wan.swift */,
+				7809B9AB2CCAC2C300D089BF /* Drawinc.swift */,
+				7809B9AD2CCAC2CB00D089BF /* Swenom.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
@@ -342,6 +351,7 @@
 				78BAAD252CB970390017319E /* AppointmentsView.swift in Sources */,
 				78BAAD512CBAA3AE0017319E /* TabBar.swift in Sources */,
 				78BAAD332CB97B0E0017319E /* OtherDoc.swift in Sources */,
+				7809B9AE2CCAC2CB00D089BF /* Swenom.swift in Sources */,
 				78BAAD2D2CB97A1B0017319E /* HomeViewModel.swift in Sources */,
 				78BAAD092CB956DD0017319E /* R1.swift in Sources */,
 				78BAAD212CB970210017319E /* HomeView.swift in Sources */,
@@ -350,12 +360,14 @@
 				78BAAD232CB9702E0017319E /* ServicesView.swift in Sources */,
 				78BAAD272CB970430017319E /* CoreDataStack.swift in Sources */,
 				78BAAD4F2CBA85B80017319E /* AddApp.swift in Sources */,
+				7809B9AA2CCAC2B600D089BF /* Wan.swift in Sources */,
 				78BAAD0D2CB956E90017319E /* R3.swift in Sources */,
 				78BAAD0B2CB956E40017319E /* R2.swift in Sources */,
 				78BAAD292CB970490017319E /* Array.swift in Sources */,
 				78BAAD4C2CBA843F0017319E /* AppointmentsViewModel.swift in Sources */,
 				78BAAD442CBA798F0017319E /* ServicesViewModel.swift in Sources */,
 				78BAAD472CBA799D0017319E /* AddServ.swift in Sources */,
+				7809B9AC2CCAC2C300D089BF /* Drawinc.swift in Sources */,
 				78BAAD132CB956F80017319E /* Not.swift in Sources */,
 				78BAAD0F2CB956ED0017319E /* U1.swift in Sources */,
 				78BAAD362CB97CAB0017319E /* CoreModel.xcdatamodeld in Sources */,
@@ -494,7 +506,7 @@
 				DEVELOPMENT_TEAM = "";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = "Assist Medical Health";
+				INFOPLIST_KEY_CFBundleDisplayName = "Assist Win Health";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -510,7 +522,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 14.0;
-				MARKETING_VERSION = 1.1;
+				MARKETING_VERSION = 2;
 				PRODUCT_BUNDLE_IDENTIFIER = IOI.App928;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -536,7 +548,7 @@
 				DEVELOPMENT_TEAM = "";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = "Assist Medical Health";
+				INFOPLIST_KEY_CFBundleDisplayName = "Assist Win Health";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -552,7 +564,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 14.0;
-				MARKETING_VERSION = 1.1;
+				MARKETING_VERSION = 2;
 				PRODUCT_BUNDLE_IDENTIFIER = IOI.App928;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";

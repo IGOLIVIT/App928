@@ -13,7 +13,7 @@ struct Reviews: View {
 
         ZStack {
             
-            LinearGradient(colors: [Color("prim"), .black], startPoint: .top, endPoint: .bottom)
+            LinearGradient(colors: [Color("prim2"), .black], startPoint: .top, endPoint: .bottom)
                 .ignoresSafeArea()
             
             VStack {
@@ -31,13 +31,13 @@ struct Reviews: View {
                 VStack {
                     
                     Text("Rate our app in the AppStore")
-                        .foregroundColor(.white)
-                        .font(.system(size: 32, weight: .bold))
+                        .foregroundColor(.black)
+                        .font(.system(size: 34, weight: .bold))
                         .multilineTextAlignment(.center)
                     
                     Text("Help make the app even better.")
-                        .foregroundColor(.white)
-                        .font(.system(size: 14, weight: .regular))
+                        .foregroundColor(.black)
+                        .font(.system(size: 16, weight: .regular))
                         .multilineTextAlignment(.center)
                         .padding(.vertical, 10)
                     
@@ -55,14 +55,14 @@ struct Reviews: View {
                             .font(.system(size: 14, weight: .regular))
                             .frame(maxWidth: .infinity)
                             .frame(height: 50)
-                            .background(RoundedRectangle(cornerRadius: 25.0).fill(.black))
+                            .background(RoundedRectangle(cornerRadius: 25.0).fill(Color("prim2")))
                     })
                     .padding(.bottom, 30)
                 }
                 .padding(30)
                 .frame(height: 340)
                 .frame(maxWidth: .infinity)
-                .background(Color("prim"))
+                .background(Color(.white))
             }
             .ignoresSafeArea()
         }

@@ -15,7 +15,7 @@ struct R3: View {
 
         ZStack {
             
-            LinearGradient(colors: [Color("prim"), .black], startPoint: .top, endPoint: .bottom)
+            LinearGradient(colors: [Color("prim2"), .black], startPoint: .top, endPoint: .bottom)
                 .ignoresSafeArea()
             
             VStack {
@@ -33,12 +33,13 @@ struct R3: View {
                 VStack {
                     
                     Text("Price transparency")
-                        .foregroundColor(.white)
-                        .font(.system(size: 32, weight: .bold))
+                        .foregroundColor(.black)
+                        .font(.system(size: 34, weight: .bold))
+                        .multilineTextAlignment(.center)
                     
                     Text("You always have up-to-date pricing information at your fingertips. Easily set up and update your rates.")
-                        .foregroundColor(.white)
-                        .font(.system(size: 14, weight: .regular))
+                        .foregroundColor(.black)
+                        .font(.system(size: 16, weight: .regular))
                         .multilineTextAlignment(.center)
                         .padding(.vertical, 10)
                     
@@ -55,14 +56,14 @@ struct R3: View {
                             .font(.system(size: 14, weight: .regular))
                             .frame(maxWidth: .infinity)
                             .frame(height: 50)
-                            .background(RoundedRectangle(cornerRadius: 25.0).fill(.black))
+                            .background(RoundedRectangle(cornerRadius: 25.0).fill(Color("prim2")))
                     })
                     .padding(.bottom, 30)
                 }
                 .padding(30)
                 .frame(height: 340)
                 .frame(maxWidth: .infinity)
-                .background(Color("prim"))
+                .background(Color(.white))
             }
             .ignoresSafeArea()
         }
